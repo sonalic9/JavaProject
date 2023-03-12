@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mpauk
+ *
+ */
+module CoreJavaProject {
+}
